@@ -1,0 +1,3 @@
+# Keep OpenAIConfig.swift out of version control to protect API keys
+OpenAIConfig.swift
+
