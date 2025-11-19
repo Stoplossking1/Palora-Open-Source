@@ -4,6 +4,11 @@
 macOS 14.4 introduces a new CoreAudio API that allows apps to capture audio from other applications or even the entire system, as long as the user grants permission. Apple has not provided much official documentation, and CoreAudio’s low-level design makes it difficult to understand how everything fits together.
 
 This section gives a simple, high-level summary of how the new API works and how you can use it in your own project.
+----
+You can use this project as a free alternative to [Granola](https://www.granola.ai/) 
+----
+[Palora Free Alternative to Granola](https://auto-record-meet.lovable.app/)
+
 
 ---
 
